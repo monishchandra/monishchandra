@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monishchandra
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning machine learning algorithms
 - 💞️ I’m looking to collaborate on data science and machine learning
 - 📫 How to reach me always let's meet in this cool hub
